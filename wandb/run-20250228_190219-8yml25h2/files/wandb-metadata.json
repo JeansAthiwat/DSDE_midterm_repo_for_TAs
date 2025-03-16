@@ -1,0 +1,36 @@
+{
+  "os":  "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "python":  "CPython 3.11.11",
+  "startedAt":  "2025-02-28T12:02:19.306052Z",
+  "program":  "/home/jaf/dsde/traffyfondue/pipeline-v2.ipynb",
+  "codePath":  "pipeline-v2.ipynb",
+  "root":  "/home/jaf/dsde/traffyfondue",
+  "host":  "JafPC",
+  "executable":  "/home/jaf/anaconda3/envs/nlp/bin/python",
+  "codePathLocal":  "pipeline-v2.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "gpu":  "NVIDIA GeForce RTX 3060 Ti",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "1081101176832",
+      "used":  "89644695552"
+    }
+  },
+  "memory":  {
+    "total":  "16639148032"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  16
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 3060 Ti",
+      "memoryTotal":  "8589934592",
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "12.7"
+}

@@ -1,0 +1,18 @@
+{"time":"2025-02-28T19:02:19.30856624+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/jaf/dsde/traffyfondue/wandb/run-20250228_190219-8yml25h2/logs/debug-core.log"}
+{"time":"2025-02-28T19:02:19.431461553+07:00","level":"INFO","msg":"created new stream","id":"8yml25h2"}
+{"time":"2025-02-28T19:02:19.431552447+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"8yml25h2"}
+{"time":"2025-02-28T19:02:19.431561651+07:00","level":"INFO","msg":"handler: started","stream_id":"8yml25h2"}
+{"time":"2025-02-28T19:02:19.43164506+07:00","level":"INFO","msg":"stream: started","id":"8yml25h2"}
+{"time":"2025-02-28T19:02:19.432801575+07:00","level":"INFO","msg":"sender: started","stream_id":"8yml25h2"}
+{"time":"2025-02-28T19:02:29.949776408+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-28T21:12:43.447978039+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-28T21:12:55.548787966+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-28T21:14:02.493697041+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-28T21:14:55.587015306+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-28T21:16:05.130602529+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-28T21:16:55.621363056+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-28T21:18:41.760959183+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-28T21:20:35.387136332+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-28T21:21:50.100945948+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-28T21:21:50.143181049+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-28T21:23:42.127921291+07:00","level":"INFO","msg":"Pausing system monitor"}
