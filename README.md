@@ -1,7 +1,7 @@
 # DSDE_midterm_repo_for_TAs
 
 1. install requirement.txt
-2. download 2110446-dsde-2024-2.zip to root
+2. download [2110446-dsde-2024-2.zip](https://www.kaggle.com/competitions/2110446-dsde-2024-2/data) to root
 3. train from scratch or download weight from [google drive](https://drive.google.com/drive/folders/1bDfaffRFZTv4YtN0b1UOxatItuHPUK1F?usp=sharing)
 4. if got question contact 6531347621 Athiwat in mycourseville or sumtin
 
@@ -41,4 +41,3 @@
 # Kaggle result
 
 ![alt text](results.png)
-# DSDE_midterm_repo_for_TAs
